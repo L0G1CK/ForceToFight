@@ -1,7 +1,7 @@
 {
   "name": "ForceToFight",
   "short_name": "ForceToFight",
-  "start_url": "https://l0g1ck.github.io/ForceToFight/index.html",
+  "start_url": "https://l0g1ck.github.io/ForceToFight/index.html?v=1.0.1M",
   "display": "fullscreen",
   "background_color": "#231F20",
   "theme_color": "#000",
